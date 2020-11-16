@@ -9,7 +9,8 @@
     },
     "files": [
         "README.md",
-        "main.ts"
+        "main.ts",
+        "_locales/ja/pxt-robotcar-strings.json"
     ],
     "testFiles": [
         "test.ts"

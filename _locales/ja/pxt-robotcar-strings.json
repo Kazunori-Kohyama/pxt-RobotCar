@@ -1,0 +1,23 @@
+{
+    "RobotCar_Keyestudio.Moving|block":"動かす",
+    "RobotCar_Keyestudio.Moving.moveForward|block":"$ms ミリ秒間 前進",
+    "RobotCar_Keyestudio.Moving.moveBackwards|block":"$ms ミリ秒間 後退",
+    "RobotCar_Keyestudio.Moving.turn|block":"$deg 度 回転",
+    "RobotCar_Keyestudio.Motors|block": "モーター",
+    "RobotCar_Keyestudio.Motors.move|block": "速さ $speed \\% で動かす",
+    "RobotCar_Keyestudio.Motors.spin|block":"速さ $speed \\% で回転",
+    "RobotCar_Keyestudio.Motors.steer|block":"速さ $speed \\% で $steering 曲がる",
+    "RobotCar_Keyestudio.Motors.stop|block":"止まる",
+    "RobotCar_Keyestudio.Leds|block":"ライト",
+    "RobotCar_Keyestudio.Leds.setRGB|block":"赤 %R 緑 %G 青 %B でオン",
+    "RobotCar_Keyestudio.Leds.showRed|block":"赤色オン",
+    "RobotCar_Keyestudio.Leds.showGreen|block":"緑色オン",
+    "RobotCar_Keyestudio.Leds.showBlue|block":"青色オン",
+    "RobotCar_Keyestudio.Leds.showWhite|block":"白色オン",
+    "RobotCar_Keyestudio.Leds.ledsOff|block":"オフ",
+    "RobotCar_Keyestudio.IrSensors|block":"赤外線センサー",
+    "RobotCar_Keyestudio.IrSensors.isLeftBlocked|block":"左にモノあり",
+    "RobotCar_Keyestudio.IrSensors.isRightBlocked|block":"右にモノあり",
+    "RobotCar_Keyestudio.Sonar|block":"ソナー",
+    "RobotCar_Keyestudio.Sonar.ping|block":"発射"
+}
